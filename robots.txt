@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-om5nf1.pulaucuan.online/sitemap.xml
